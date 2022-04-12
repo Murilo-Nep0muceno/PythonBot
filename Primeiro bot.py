@@ -46,7 +46,7 @@ async def calculate(ctx, *expression):
 @bot.command(name="amor")
 async def segredo(ctx):
      name = ctx.author.name
-     await ctx.send("=====Declaração de amor===== ")
+     await ctx.send("======Declaração de amor====== ")
      await ctx.send("Você é lindo(a) você merece o mundo " + name )
      await ctx.send("não se preocupe, isso é so uma fase vai passar " + name)
 
