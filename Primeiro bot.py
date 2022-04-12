@@ -16,7 +16,7 @@ async def on_ready():
 
 
 
-# comando que detecta quando voce fala algum palavrao
+
 
 
 # !oi
